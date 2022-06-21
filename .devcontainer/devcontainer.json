@@ -50,6 +50,11 @@
           "permissions": {
             "contents": "read"
           }
+        },
+        "conversionxl/wp-theme-lib": {
+          "permissions": {
+            "contents": "read"
+          }
         }
       }
     }
