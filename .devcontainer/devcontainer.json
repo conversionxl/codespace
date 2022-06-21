@@ -41,11 +41,16 @@
             "contents": "read"
           }
         },
-		"conversionxl/institute-plugin": {
-		  "permissions": {
-			"contents": "read"
-		  }
-		}
+        "conversionxl/institute-plugin": {
+          "permissions": {
+            "contents": "read"
+          }
+        },
+        "conversionxl/institute-theme": {
+          "permissions": {
+            "contents": "read"
+          }
+        }
       }
     }
   }
