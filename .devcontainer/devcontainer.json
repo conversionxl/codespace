@@ -34,7 +34,7 @@
 	"customizations": {
 		"codespaces": {
 			"repositories": {
-				"conversionxl/cxl-wpstarter": {
+				"conversionxl/*": {
 					"permissions": "write-all"
 				}
 			}
