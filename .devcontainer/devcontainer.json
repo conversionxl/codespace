@@ -40,7 +40,12 @@
           "permissions": {
             "contents": "read"
           }
-        }
+        },
+		"conversionxl/institute-plugin": {
+		  "permissions": {
+			"contents": "read"
+		  }
+		}
       }
     }
   }
