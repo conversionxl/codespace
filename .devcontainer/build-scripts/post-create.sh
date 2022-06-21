@@ -3,4 +3,4 @@ rm -rf .git
 mv cxl-wpstarter/.git .
 git reset --hard
 git clean -fxd
-git checkout codespaces-dev
+git checkout codespaces
